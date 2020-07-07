@@ -1,6 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Sample ![](20200706_231532.gif)
+## Sample of the app working:
+<br>
+![](20200706_231532.gif)
 
 ## Available Scripts
 
