@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Sample <iframe src="20200706_231532.gif" width="480" height="225" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/eGyXNH6jKePvflO8xe">via GIPHY</a></p>
+Sample <iframe src="./20200706_231532.gif" width="480" height="225" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/eGyXNH6jKePvflO8xe">via GIPHY</a></p>
 
 
 ## Available Scripts
